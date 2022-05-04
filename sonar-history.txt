@@ -1,0 +1,23 @@
+[root@ip-172-31-36-162 ec2-user]# history
+    1  yum install -y java-1.8.0-openjdk-devel.x86_64
+
+    2  sudo wget -O /etc/yum.repos.d/sonar.repo http://downloads.sourceforge.net/project/sonar-pkg/rpm/sonar.repo
+
+    3  sudo yum install sonar -y
+
+    4  service sonar start
+
+    5  history
+[root@ip-172-31-36-162 ec2-user]#
+[root@ip-172-31-36-162 ec2-user]#
+[root@ip-172-31-36-162 ec2-user]#
+
+token :
+
+sudha: e85632137958604d6264005c6543b4180ef048ab
+
+upendra: fdbe7f9576f3abac0cb64a8479892cc4b538f415
+
+authreya: 9372830f085b2a5cd8e9f83dadb908a66a5b7e37
+
+tharun: 886baafc1ab3c94fbcaff5ca69363b03331d9baa
